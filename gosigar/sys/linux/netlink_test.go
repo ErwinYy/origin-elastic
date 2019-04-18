@@ -7,7 +7,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/elastic/gosigar/sys"
+	"github.com/ErwinYy/origin-elastic/gosigar/sys"
 	"github.com/stretchr/testify/assert"
 )
 

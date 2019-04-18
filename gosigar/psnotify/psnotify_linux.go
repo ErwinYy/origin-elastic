@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/elastic/gosigar/sys"
+	"github.com/ErwinYy/origin-elastic/gosigar/sys"
 	"os"
 	"syscall"
 )

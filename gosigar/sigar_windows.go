@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/StackExchange/wmi"
-	"github.com/elastic/gosigar/sys/windows"
+	"github.com/ErwinYy/origin-elastic/gosigar/sys/windows"
 	"github.com/pkg/errors"
 )
 
